@@ -1,17 +1,9 @@
 # Carta Jus 9
 
-## Repertório
+Repertório: `carta-jus9-tecnologia-juridica`
 
-`carta-jus9-tecnologia-juridica`
+Status: existente
 
-## Status
+Mão na Massa Final — padrão visual, assinatura, governança e orientação obrigatória.
 
-existente
-
-## Fase
-
-Pré-Mão na Massa — Pacote Governança encerrado.
-
-## Finalidade
-
-Alinha o repertório da Carta Jus 9 à governança pública, revisão humana, preservação de autoria, segurança e links institucionais.
+© Jus 9 Tecnologia Jurídica — software livre, autoria preservada.
