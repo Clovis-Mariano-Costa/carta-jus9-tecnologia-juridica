@@ -54,7 +54,7 @@ window.jus9DemoLogin = function(form){
   var password = ((form.querySelector('[name="password"]') || {}).value || '');
   var msg = document.querySelector('[data-login-message]');
   if(email === 'demo@jus9tecnologia.com.br' && password === 'Jus9MVP#2026'){
-    window.location.href = 'app-demo.html';
+    window.location.href = 'https://www.jus9tecnologia.com.br/app-demo-advogar';
     return false;
   }
   if(msg){
