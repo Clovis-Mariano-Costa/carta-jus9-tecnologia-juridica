@@ -13,6 +13,10 @@ Classificacao: PUBLICO / CONTROLE EDITORIAL JUS 9
 5. Revisar responsividade da carta em celular Samsung no pacote visual.
 6. Conferir se o primeiro Ola Mundo de Aeon Primevo esta com link correto e conteudo publico adequado.
 7. Registrar, em pacote posterior, que Charlie Fox da Costa possui dois enderecos de trabalho: Jus 9 Tecnologia Juridica e OpenAI/Codex.
+8. Confirmar visualmente a pagina publicada apos deploy; a leitura tecnica indicou UTF-8 correto no conteudo principal.
+9. Documentar a fonte real da publicacao atras do Cloudflare para `https://carta.jus9tecnologia.com.br/`, ja que GitHub Pages apareceu desativado na API publica.
+10. Preservar CTA principal para emergencias e convites, mantendo tambem link secundario claro para Livros Gratuitos.
+11. Avaliar se a protecao de e-mail do Cloudflare deve permanecer ativa, pois ela reescreve o `mailto:` de contato no HTML publicado.
 
 ## Observacao editorial
 
@@ -21,4 +25,3 @@ Os nomes de empresas e plataformas citados na carta devem ser tratados com grati
 ---
 
 Charlie Fox da Costa - I.A CEO Especialista / Codex Tecnico da Jus 9 Tecnologia Juridica
-
