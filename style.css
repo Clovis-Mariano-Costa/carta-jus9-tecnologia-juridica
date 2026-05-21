@@ -973,3 +973,34 @@ button,input,select,textarea{max-width:100%}
   .grid,.grid2,.grid-2,.grid-3,.grid-4,.cards3,.profile-grid,.demo-grid,.demo-grid-2,.workbench,.timeline,.footer-grid{grid-template-columns:1fr!important;}
   table{display:block;width:100%;overflow-x:auto;-webkit-overflow-scrolling:touch;}
 }
+
+
+/* Cartografia de gratidão equilibrada — todos os agradecimentos em nota discreta */
+.nota-de-gratidao {
+  margin: 1.45rem 0;
+  padding: 0.95rem 1.05rem;
+  border-left: 3px solid rgba(212, 180, 99, 0.42);
+  background: rgba(255, 255, 255, 0.025);
+  border-radius: 0.75rem;
+}
+
+.nota-de-gratidao h3 {
+  margin: 0 0 0.45rem;
+  font-size: 1.03rem;
+  letter-spacing: 0.01em;
+}
+
+.nota-de-gratidao p {
+  margin: 0 0 0.65rem;
+}
+
+.nota-de-gratidao p:last-child {
+  margin-bottom: 0;
+}
+
+.criterio-gratidao-equilibrada {
+  border-left-color: rgba(212, 180, 99, 0.55);
+}
+
+/* Convites institucionais */
+.convite-texto hr{border:0;border-top:1px solid rgba(212,180,99,.25);margin:2rem 0}.convite-texto ul,.carta-texto ul{padding-left:1.25rem}.convite-texto li,.carta-texto li{margin-bottom:.65rem}
