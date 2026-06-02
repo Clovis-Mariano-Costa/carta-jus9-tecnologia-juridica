@@ -1,3 +1,9 @@
+# AVISO - REGISTRO HISTORICO
+
+Este registro documenta uma etapa anterior. Para novas conversas financeiras, usar https://investimentos.jus9tecnologia.com.br/busca-parcerias.
+
+---
+
 # Commit sugerido — Carta Itaú discreto e Web Summit no HTML principal
 
 ## Summary

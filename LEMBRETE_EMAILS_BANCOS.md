@@ -15,7 +15,7 @@ Estamos dentro dessa oportunidade e buscamos apoio, orientação, divulgação r
 
 Usar também:
 
-https://investimentos.jus9tecnologia.com.br/emergencia-evento
+https://investimentos.jus9tecnologia.com.br/busca-parcerias
 
 
 Observação: na Carta, o Itaú ficou como nota discreta de gratidão, não como agradecimento principal.

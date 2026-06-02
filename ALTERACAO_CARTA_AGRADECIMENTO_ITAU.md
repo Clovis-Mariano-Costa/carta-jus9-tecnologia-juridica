@@ -1,3 +1,9 @@
+# AVISO - REGISTRO HISTORICO
+
+Para novas conversas financeiras, usar https://investimentos.jus9tecnologia.com.br/busca-parcerias. O link emergencial anterior permanece apenas como historico.
+
+---
+
 # Alteração aprovada — Carta / Agradecimento ao Banco Itaú
 
 **Página-alvo:** https://carta.jus9tecnologia.com.br/  
